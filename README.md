@@ -39,5 +39,8 @@ You can deploy your new Waline project with a single command from your terminal 
 ```shell
 $ vercel
 ```
-Upload at 2022年11月30日
-Upload at 2022年12月29日
+Update at 2022年11月30日
+
+Update at 2022年12月29日
+
+Update at 2023年3月19日
